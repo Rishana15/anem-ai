@@ -1,8 +1,8 @@
 
 ## **What is Anem.ai?**:eyes:
 Anem.ai is an app to detect anemia based on the user's conjunctiva. Anemia is a condition in which the body has fewer red blood cells than normal or lower than usual.
-Based on data from the Indonesian Ministry of Health in 2023, the prevalence of anemia according to gender is 14,4% for men and 18% for women.
 By creating this app we hope that this app can raise people's awareness about anemia.
+
 # Anem.ai - Anemia Detection App
 
 Detects anemia by scanning inner eyelid using phone camera. No blood test needed.
