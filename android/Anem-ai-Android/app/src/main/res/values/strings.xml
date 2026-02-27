@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name" translatable="false">Anem.ai</string>
+    <string name="greeting">Hello,</string>
+    <string name="greeting_question" translatable="false">Say goodbye to Anemia!</string>
+    <string name="greeting_name">%s!</string>
+    <string name="anemia">Anemia</string>
+    <string name="check_up">Check-Up</string>
+    <string name="checkup_desc">Using Machine\nLearning Detection</string>
+    <string name="history">History</string>
+    <string name="shows_records_nof_detection">Shows records \nof detection</string>
+    <string name="article">Article</string>
+
+    <string name="dummy_article_headline">Article Headline</string>
+    <string name="dummy_history_date">Saturday, 12 December 2012</string>
+    <string name="dummy_history_result">Result: %s</string>
+
+    <string name="history_detection">History Detection</string>
+    <string name="history_detection_detail">Detection Detail</string>
+
+    <string name="back">Back\n</string>
+    <string name="logout">Logout</string>
+    <string name="detection_result">Result: %s</string>
+    <string name="detection_date">Date: %s</string>
+    <string name="headline_welcome">Feeling Headache?</string>
+    <string name="bodycopy_welcome">"Headaches can come from anemia and you can check your Anemia using this app, it's FREE! Log in or register now! "</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password">Password</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="or">OR</string>
+    <string name="full_name">Full Name</string>
+    <string name="birth_date">Birth Date</string>
+    <string name="gender">Gender</string>
+    <string name="register_with_google">Register with Google</string>
+    <string name="error_restart">Something went wrong. Please restart this app!</string>
+    <string name="anemia_detection">Anemia Detection</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="loading_wait">Please don\'t close this screen</string>
+    <string name="detection_result_name">Detection Result</string>
+
+    <string name="error_try_again">Something went wrong. Please try again!</string>
+    <string name="detection_accuracy">Accuracy: %s</string>
+    <string name="detection_detail">Detection Detail</string>
+    <string name="additional_information">Additional Information</string>
+    <string name="detection_precaution">Precaution: %s</string>
+    <string name="detection_risk">Risk: %s</string>
+    <string name="detection_suggestion">Suggestion: %s</string>
+    <string name="precaution">Precaution</string>
+    <string name="risk">Risk</string>
+    <string name="suggestion">Suggestion</string>
+
+    <string name="wrong_email_format">Wrong email address format!</string>
+    <string name="password_must_be_filled">Password must be filled</string>
+    <string name="password_must_contain_lowercase">Password must contain at least one lowercase letter</string>
+    <string name="password_must_contain_uppercase">Password must contain at least one uppercase letter</string>
+    <string name="password_must_contain_special_character">Password must contain at least one special character</string>
+    <string name="name_must_be_filled">Name must be filled</string>
+    <string name="article_title">Article Title</string>
+    <string name="article_content">Article Content</string>
+    <string name="more">More</string>
+    <string name="error_age_less_than_17">Must be at least 17 years old</string>
+    <string name="no_data_message">You haven\'t done any anemia detection</string>
+
+</resources>

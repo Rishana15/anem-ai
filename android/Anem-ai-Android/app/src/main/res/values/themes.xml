@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Anemai" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/blue</item>
+    </style>
+
+    <style name="Theme.Anemai" parent="Base.Theme.Anemai">
+        <item name="toolbarStyle">@style/Toolbar</item>
+        <item name="actionBarStyle">@style/Actionbar</item>
+        <!-- SIMPLIFIED: Uses platform default dialog -->
+    </style>
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/blue</item>
+        <item name="postSplashScreenTheme">@style/Theme.Anemai</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/animated_logo_splash_screen</item>
+    </style>
+
+    <!--Toolbar, Actionbar-->
+    <style name="Toolbar" parent="Widget.Material3.Toolbar">
+        <item name="titleTextColor">@color/white</item>
+        <item name="android:fontFamily">@font/inter_bold</item>
+    </style>
+    <style name="Actionbar" parent="Widget.Material3.ActionBar.Solid">
+        <item name="background">@color/transparent</item>
+    </style>
+    <!-- Keep all your text styles exactly as before -->
+    <!-- [your existing text styles here - copy from your backup] -->
+</resources>
