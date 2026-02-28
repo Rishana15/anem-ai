@@ -38,6 +38,5 @@ Detects anemia by scanning inner eyelid using phone camera. No blood test needed
 ### **Tools & Library**
 1. Android Studio
 2. Glide
-3. Facebook shimmer
-4. Retrofit
-5. CameraX
+3. Retrofit
+4. CameraX
